@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For any queries, please reach out to [Your Name] at [your.email@example.com].
+For any queries, please reach out to Shane Larson at shane@cortexagent.com.
